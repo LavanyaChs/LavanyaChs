@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LavanyaChs
+- 👋 Hi, I’m @LavanyaCheemakurthy
 - 👀 I’m interested in doing websites
 - 🌱 I’m currently learning js/ts.
 - 💞️ I’m looking to collaborate on mutual learning
